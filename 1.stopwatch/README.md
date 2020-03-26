@@ -1,4 +1,5 @@
 Проект описан на Хабрахабре [https://habr.com/post/431826](https://habr.com/post/431826)
+
 Проект сделан с использованием [Create React App](https://github.com/facebook/create-react-app) - и сгенерённую документацию я перевёл на русский.
 
 ## Необходимые скрипты
