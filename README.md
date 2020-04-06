@@ -23,6 +23,7 @@
 - [2.jsx](https://github.com/lavsexpert/synergy-react/tree/master/2.jsx) - изучение JSX
 - [2.main](https://github.com/lavsexpert/synergy-react/tree/master/2.main) - изучение компонентов 
 - [3.state](https://github.com/lavsexpert/synergy-react/tree/master/3.state) - изменение состояний, жизненный цикл, обработка событий
+- [4.forms](https://github.com/lavsexpert/synergy-react/tree/master/4.forms) - обработка форм с использованием состояний
 
 
 
